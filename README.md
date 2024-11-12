@@ -1,61 +1,27 @@
-# Project Name
 
-Edit this section with a brief explanation of your project.
+# 🌱 Use Case Garden 🌱
 
-## Table of Contents
+Welcome to the Use Case Garden! This repository serves as a collaborative space to document and explore AI use cases unique to India. We aim to provide a rich library of real-world AI applications, helping innovators, developers, and industry leaders connect, contribute, and collaborate to solve pressing challenges and unlock new opportunities.
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Documentation](#documentation)
-- [Issues](#issues)
-- [Pull Requests](#pull-requests)
-- [Volunteer](#volunteer)
+The database of ALL use cases is being maintained here: https://pplus.ai/usecasegarden 
 
-## Introduction
+You can also submit an idea to the Garden here: https://pplus.ai/submit-usecase
 
-Replace this section with a more detailed introduction to your project. Explain its purpose, main features, and any other relevant information.
+## Project Goals
 
-## Getting Started
+The Use Case Garden's primary goal is to activate the imagination of India’s AI makers. By cataloging use cases that are relevant and unique to the Indian ecosystem, we aim to support developers, startups, NGOs, and other stakeholders in discovering, discussing, and developing AI solutions. Our vision is to make this repository a vibrant community resource where contributors can share, learn, and build impactful AI projects.
 
-Update this section with instructions on how to get started with your project:
+## What we are striving towards 
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-
-2. Commands for installing dependencies
-   
-3. Commands for running the project
-
-4. Link to the project's live demo (if available) or local server
-
-## Contributing
-
-
-We welcome contributions from the community. To contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md](.github/CONTRIBUTING.md).
-
-## Documentation
-
-Explain where to find and how to use your project's documentation:
-
-The `docs` folder contains project documentation and related documents. To access or contribute to the documentation, please refer to [docs/README.md](docs/README.md).
-
-## Issues
-
-Provide instructions for reporting issues:
-
-If you encounter any issues with the project, please create a new issue using the [issue template](.github/ISSUE_TEMPLATE.md). Provide as much detail as possible to help us understand and resolve the issue.
-
-## Pull Requests
-
-Explain your process for accepting pull requests:
-
+- Connection & Collaboration: Facilitate connections between makers, experts, and stakeholders interested in AI applications across various sectors.
+- Accessible & Actionable Knowledge: Enable easy access to actionable use cases and foster ongoing contributions from the community.
+- AI for India: Support AI projects that address challenges specific to India, spanning industries like healthcare, agriculture, governance, and more.
 
 ## Volunteer & contribute
 
+Special thanks to Amit Kumar, Asif Hassan, Sundeep Mallu, Tanuj Bhojwani, Harsha G, Arjun Venkatachalam, Ankur Anand, and all our dedicated contributors who are helping bring the Use Case Garden to life.
+
 If you are interested in volunteering for this project, please refer to [this link](https://peopleplus.ai/volunteer) for more information. 
-
-If you would like to contribute to the codebase, please refer to the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for more information. We appreciate your contributions!
-
 
 ## About Us
 
